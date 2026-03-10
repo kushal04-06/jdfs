@@ -5,7 +5,7 @@
 You can view the live project here:
 
 **Live Demo Link:**
-https://yourusername.github.io/student-erp/
+https://kushal04-06.github.io/jdfs/
 
 ---
 
